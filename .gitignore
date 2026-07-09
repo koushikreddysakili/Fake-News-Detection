@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+
+# Ignore datasets
+data/
+outputs/
+
+# Keep models
+# (Do NOT ignore models/)
